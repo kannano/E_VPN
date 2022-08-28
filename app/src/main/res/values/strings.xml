@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E VPN</string>
+    <string name="tagline">Smartly Connect, Securely Browse.</string>
+    <string name="connection_toggle">Tap to Connect</string>
+</resources>
